@@ -1,0 +1,3 @@
+﻿  C_Task4.cpp
+E:\C_Task4\C_Task4.cpp(185,10): warning C4101: confirm: неиспользованная локальная переменная
+  C_Task4.vcxproj -> E:\C_Task4\x64\Debug\C_Task4.exe
